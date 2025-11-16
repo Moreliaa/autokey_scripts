@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "Spam LMB",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 34,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "<f3>"
+    },
+    "filter": {
+        "regex": "Path of Exile",
+        "isRecursive": false
+    }
+}
